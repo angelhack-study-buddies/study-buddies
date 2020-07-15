@@ -3,4 +3,4 @@
 	url = https://github.com/angelhack-study-buddies/study-buddies-server.git
 [submodule "study-buddies-client"]
 	path = study-buddies-client
-	url = git@github.com:angelhack-study-buddies/study-buddies-client.git
+	url = https://github.com/angelhack-study-buddies/study-buddies-client.git
